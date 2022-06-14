@@ -1,6 +1,6 @@
 {
   "name": "@respira/react-native-markdown-display",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Markdown renderer for react-native, with CommonMark spec support + adds syntax extensions & sugar (URL autolinking, typographer), originally created by Mient-jan Stelling as react-native-markdown-renderer",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Respira/react-native-markdown-display.git"
+    "url": "https://github.com/respira/react-native-markdown-display.git"
   },
   "keywords": [
     "react",
@@ -25,9 +25,9 @@
   "author": "Mient-jan Stelling and Tom Pickard + others from the community",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Respira/react-native-markdown-display/issues"
+    "url": "https://github.com/respira/react-native-markdown-display/issues"
   },
-  "homepage": "https://github.com/Respira/react-native-markdown-display/",
+  "homepage": "https://github.com/respira/react-native-markdown-display/",
   "dependencies": {
     "css-to-react-native": "^3.0.0",
     "markdown-it": "^12.3.2",
